@@ -19,7 +19,7 @@ tags:: kids-on-bikes, sessions, [[The Disappearance of Zeke Kamiski]]
 	- ### What forbidden place do we view with suspicion?
 	  The [[Silent Falls Coal Mine]]. It's been barricaded and abandoned.
 	- ### How do the people here affirm their identities?
-	  By Tithing to the lcoal church, [[The Tabernacle]]. 
+	  By Tithing to the lcoal church, [[The Tabernacle]].
 - ## Our Figure
   After creating a town, we entered the cold open for the story [[The Disappearance of Zeke Kamiski]], by creating our figure.
 	- We start with a figure. [[Zeke Kamiski]], a 17 year old boy, behind the local discount grocery store [[Food Badger]].
@@ -39,3 +39,10 @@ tags:: kids-on-bikes, sessions, [[The Disappearance of Zeke Kamiski]]
   Zeke looks over his shoulder at a payphone. Was that always there?
   Curious, he goes over to answer it.
   he raises the receiver to his ear, and disappears.
+  The last thing we see is the receiver hanging from the cord.
+- ## Town Creation
+  After tossing the dice, we created this outline for the town
+-
+- ## Character Creation
+	-
+-
