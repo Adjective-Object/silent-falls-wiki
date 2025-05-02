@@ -1,7 +1,11 @@
 tags:: kids-on-bikes, sessions, [[The Disappearance of Zeke Kamiski]]
 
-- ## Town Creation
+- ## We Start looking at a town
   We started with town creation. Sketching the picture of [[Silent Falls, USA]]
+	- ### What did it used to be?
+	  We used to be a coal-mining town. One of many that served as the lifeblood of the American steel industry. The mines dried up in the 1950s, and were closed off to the public due to safety concerns.
+	- ### What is it becoming?
+	- These days, the town’s home to a few regional offices of small American companies but we don’t have any particular productive industry anymore. It’s a quiet, small town, but most people here like it like that.
 	- ### What keeps us separated from the outside world?
 	  Silent falls is irrelevant. After the mining industry closed up, we didn't have anything to offer the world outside.
 	- ### What keeps  connected with the outside world?
@@ -42,7 +46,38 @@ tags:: kids-on-bikes, sessions, [[The Disappearance of Zeke Kamiski]]
   The last thing we see is the receiver hanging from the cord.
 - ## Town Creation
   After tossing the dice, we created this outline for the town
--
+	- ![1000045240.jpg](../assets/1000045240_1746217870013_0.jpg)
+	- [[Lake Clearwater]], where the [[Annual Fishing & Washer Festival]] happens
+	- [[The Promenade]], a fancy new development in Downtown Silent Hills.
+	- [[Great Skates]] , the skating rink near The Promenade.
+		- It was later established that the [[Town Goths]] host their "midnight mass" here, [[The Conclave at Great Skates]].
+	- [[Tabernathy Technical Highschool]], The only highschool in town. Their mascot is [[The Fightin' Miners]]
+	- [[Tabernathy Square]]
+	- [[Taberville]], the old rich neighbourhood. The tabernathies live here.
+	- [[Lakeforest Hills]], a new neighbourhood built by bulldozing the old woods.
+	- [[The Skids]], a neighbourhood of mostly apartment buildings made in a hurry for the mine workers and their families.
+	- [[Gwen's Kitchen & Cafe]], a greasy diner near the skids
+	- [[The City Dump]]
+	- [[Silent Falls Commercial Park and Emporium]], host to [[Food Badger]], [[The Fantasy Store]]
 - ## Character Creation
-	-
--
+  Next, we created our player characters and some relationships between them
+	- [[Rick "Monstrosity" Münster]], The youngest goth in town (14)
+		- Rick knows zeke through the goth community. He used to buy cigarettes off Zeke
+		- Rick knows of Isaiah because a respected member of the church, [[America Elizabeth]] speaks highly of him after Isaiah helped her cross the street once
+	- [[Isaiah Madison]], The pastor's son (15)
+		- Isaiah knows Zeke because he was the only upperclassman who was nice to him in their shared calculus class
+		- Isaiah knows Sam through *(I don't remember)*
+	- [[Sam Kamiski]], Zeke's tomboyish younger sister (13)
+		- Sam knows Rick because they ran in the same circles, through Zeke. Sam was the lookout when Rick stole his bike.
+		- Sam ratted out Rick somewhere *(I don't remember at time of writing)*
+- ## Gameplay
+	- It's been a week since Zeke disappeared. The police haven't turned up much, and Zeke's father [[David Kamiski]] has started coordinating a community search with the [[Miner's Underground]].
+	- Sam thinks no one is trying hard enough, and no one is taking the right angle. She's gathered together whoever she could convince to help her into their own search party.
+	- We open on The Kamiski family basement, where Sam, Isaiah, and Rick are brainstorming on avenues to explore to try to track down Zeke
+		- Sam knows he was last seen on the way to the Food Badger to pick up Stelladora Breakfast Treats for her. She feels guilty about this
+		- *(?) can't remember other avenues discussed here*
+	- The group bikes over to the [[Food Badger]] to try to view the old security tapes. With some work, they're able to convince the owner of the Food Badger, [[Mr. Bashir]] to let them view the security footage.
+	- Mr. Bashir mentions that the police have been by and already looked at the tapes
+	- All they get from the tape is that Zeke walked behind the strip mall. Food Badger doesn't have rear CCTV covering the parking lot.
+	- The group goes next door to [[The Fantasy Store]], which is run by [[Raven Darkwing]], the girlfriend of [[Loki Moonshadow (Tony Calveresi)]]
+	- With some negotiation,
