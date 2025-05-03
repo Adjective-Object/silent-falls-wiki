@@ -80,4 +80,6 @@ tags:: kids-on-bikes, sessions, [[The Disappearance of Zeke Kamiski]]
 	- Mr. Bashir mentions that the police have been by and already looked at the tapes
 	- All they get from the tape is that Zeke walked behind the strip mall. Food Badger doesn't have rear CCTV covering the parking lot.
 	- The group goes next door to [[The Fantasy Store]], which is run by [[Raven Darkwing]], the girlfriend of [[Loki Moonshadow (Tony Calveresi)]]
-	- With some negotiation,
+	- With some goth to goth negotiation, Rick convinced darkwing to give them access to the security camera room. there, they saw footage of Zeke's supernatural disappearance. On the camera it looked like a surge of VHS noise and Sam was convinced it was an edited video. highly suspicious.
+        - The group went out back to investigate the payphone. the ringer was back on the payphone. The phone was recently serviced. the number of the maintenance company was on the service log. after looking though the phonebook, Rick found a number circled and labelled "Call for a good time".
+        - They called the number and we ended the session there.
