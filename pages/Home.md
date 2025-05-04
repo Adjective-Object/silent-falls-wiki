@@ -1,4 +1,6 @@
-- Welcome to the Silent Falls Wiki! To get started, check out the [[Silent Falls, USA]] page, or browse the query indices below:
+- Welcome to the Silent Falls Wiki!
+- To get started, check out the [[Silent Falls, USA]] page, or browse the query indices below:
+- To edit the wiki, go to [the github page](https://github.com/adjective-object/silent-falls-wiki)
 - #+BEGIN_QUERY
   {:title "Sessions"
    :query [:find ?name
