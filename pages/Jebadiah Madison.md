@@ -1,0 +1,5 @@
+- Father of [[Isaiah Madison]]
+- Head pastor at [[The Tabernacle]]
+- Suspected to be committing embezzlement
+- ---
+- Spoilers: [[Spoilers/Jebadiah Madison]]
